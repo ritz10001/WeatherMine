@@ -1,2 +1,2 @@
-1. PyQt5
-2. requests
+PyQt5
+requests
